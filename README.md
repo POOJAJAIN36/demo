@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-This includes basic html commands.
+This demo project includes basic html commands.

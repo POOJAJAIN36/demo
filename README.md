@@ -1,2 +1,2 @@
 # demo
-My first  repo trial 
+This is my first Git Repository.
